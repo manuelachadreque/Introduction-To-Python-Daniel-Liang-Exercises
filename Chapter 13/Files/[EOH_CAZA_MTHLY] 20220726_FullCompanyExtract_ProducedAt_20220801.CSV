@@ -1,0 +1,7 @@
+CompanyId,PCI Card, Cardholder, TranDate, PostDate, Merchant Description, Category, TranReference, Merchant Category, TranAmount, OrderNumber, InvoiceNumber, Ticket, Airline, Passenger, Voucher, RentalAgreement, ForexInvoice,
+06080812,522118******7404,MR GN LAWRENCE,20220715,20220715,Payment  Thank You,C,75221002196999600125304,0000,-34305.69,,,,,,,,,
+06080812,522118******7404,MR GN LAWRENCE,20220708,20220712,# International Txn Fee,C,75221182193000193086061,0000,111.61,,,,,,,,,
+06080812,522118******7404,MR GN LAWRENCE,20220708,20220712,Holiday Inn,H2,72307862192101460775931,7011,4058.48,,,,,,,,,
+06080812,522118******7404,MR GN LAWRENCE,20220701,20220701,M# http://www.netflorist.,O,75221002182002203000309,5992,1559.9,,,,,,,,,
+06080812,522118******7404,MR GN LAWRENCE,20220714,20220716,Netflorist,O,05412832196005460453574,5193,789.9,,,,,,,,,
+T,Detail Records Exported, 5

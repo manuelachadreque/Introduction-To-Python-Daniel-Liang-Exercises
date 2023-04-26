@@ -1,0 +1,5 @@
+CompanyId,PCI Card, Cardholder, TranDate, PostDate, Merchant Description, Category, TranReference, Merchant Category, TranAmount, OrderNumber, InvoiceNumber, Ticket, Airline, Passenger, Voucher, RentalAgreement, ForexInvoice,
+06030394,522118******8759,MR TJ WINTER,20220601,20220602,Gotocom*Gotomeeting                     IRL,E3,55207572152200636161932,5968,-6937.51,,,,,,,,,
+06030394,522118******1184,THE DIRECTOR,20220601,20220602,Intl Trans Fee Rev,C,75221182153000153071432,0000,-190.78,,,,,,,,,
+06030394,522118******1184,THE DIRECTOR,20220601,20220602,Other- Mr Tj Winter,E1,5221182039418759,5968,-6937.51,,,,,,,,,
+T,Detail Records Exported, 3

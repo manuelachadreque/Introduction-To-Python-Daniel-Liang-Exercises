@@ -1,0 +1,6 @@
+CompanyId,PCI Card, Cardholder, TranDate, PostDate, Merchant Description, Category, TranReference, Merchant Category, TranAmount, OrderNumber, InvoiceNumber, Ticket, Airline, Passenger, Voucher, RentalAgreement, ForexInvoice,
+06004315,522118******4630,MRS SM BARTIE,20220603,20220604,Lucky Bread Moa,J,72301132154108779497883,5812,150,,,,,,,,,
+06004315,522118******4630,MRS SM BARTIE,20220622,20220623,U Life (pty) Ltd,O,75122322173221448003513,5651,540.8,,,,,,,,,
+06004315,522118******1707,THE MEMBER,20220610,20220610,Payment  Thank You,C,75221002161000000090007,0000,-1171,,,,,,,,,
+06004315,522118******1707,THE MEMBER,20220622,20220623,Purch- Mrs Sm Bartie,O,5221182039374630,5651,690.8,,,,,,,,,
+T,Detail Records Exported, 4

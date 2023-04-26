@@ -1,0 +1,7 @@
+CompanyId,PCI Card, Cardholder, TranDate, PostDate, Merchant Description, Category, TranReference, Merchant Category, TranAmount, OrderNumber, InvoiceNumber, Ticket, Airline, Passenger, Voucher, RentalAgreement, ForexInvoice,
+06004315,522118******4630,MRS SM BARTIE,20220525,20220525,Service Fee,C,75221182145000145060403,0000,469,,,,,,,,,
+06004315,522118******4630,MRS SM BARTIE,20220519,20220519,C* Blos Cafe,J,75221002139000005110205,5812,330,,,,,,,,,
+06004315,522118******4630,MRS SM BARTIE,20220523,20220525,Mugg   Bean Woodland,J,75412832144027630003713,5812,372,,,,,,,,,
+06004315,522118******1707,THE MEMBER,20220517,20220517,Payment  Thank You,C,75221002137000000090008,0000,-1995.82,,,,,,,,,
+06004315,522118******1707,THE MEMBER,20220525,20220526,Purch- Mrs Sm Bartie,C,5221182039374630,0000,1171,,,,,,,,,
+T,Detail Records Exported, 5

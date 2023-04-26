@@ -1,0 +1,4 @@
+CompanyId,PCI Card, Cardholder, TranDate, PostDate, Merchant Description, Category, TranReference, Merchant Category, TranAmount, OrderNumber, InvoiceNumber, Ticket, Airline, Passenger, Voucher, RentalAgreement, ForexInvoice,
+06004315,522118******1707,THE MEMBER,20220426,20220426,Late Fee,C,75221182116000116062201,0000,170,,,,,,,,,
+06004315,522118******1707,THE MEMBER,20220426,20220426,Finance Charge,C,75221182116626116064001,0000,25.39,,,,,,,,,
+T,Detail Records Exported, 2
